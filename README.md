@@ -1,5 +1,7 @@
 # Power-BI-Project--Atliq-Hotels-Hospitality
 
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZGU0MjE4MWItYTM4Mi00NGZmLWJmMGYtYmQ4ZmQxMjYwZGQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 AtliQ Hotels Hospitality Insights Provide Hospitality insights
 
 Problem Statement:
@@ -8,7 +10,7 @@ AtliQ Hotels owns multiple five-star hotels across India. They have been in the 
 
 Workflow steps:
 
-Data collection and exploration, create date table in Power Query (M language). Data load to Power BI and initial validation. Data Transformation in Power Query. Data Modelling and creating calculated columns. Creating measures using the DAX language. Build Executive View, Finance View, Revenue View, Occupancy and Booking View and Key Metrics View. Designing an effective Dashboard which includes page navigation with buttons, tooltips, using KPI’s, conditional formatting of the values in visuals. Deploying the solution using Power BI Service.
+Data collection and exploration, create date table in Power Query (M language). Data load to Power BI and initial validation. Data Transformation in Power Query. Data Modelling and creating calculated columns. Creating measures using the DAX language. Build Executive View, Revenue View, Booking Insights and Performance Overview. Designing an effective Dashboard which includes page navigation with slicer panel, buttons,  using KPI’s. Deploying the report using Power BI Service.
 
 Key Metrics: 
 
