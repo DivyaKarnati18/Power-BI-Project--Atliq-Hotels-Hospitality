@@ -1,5 +1,9 @@
 # Power-BI-Project--Atliq-Hotels-Hospitality
 
+View PowerBI Dashboard
+![image](https://github.com/DivyaKarnati18/Power-BI-Project--Atliq-Hotels-Hospitality/assets/166278420/5f231e4e-6fff-4f4f-b783-7a0652312b87)
+
+
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZGU0MjE4MWItYTM4Mi00NGZmLWJmMGYtYmQ4ZmQxMjYwZGQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 AtliQ Hotels Hospitality Insights Provide Hospitality insights
