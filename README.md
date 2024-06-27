@@ -18,4 +18,7 @@ Revenue realized: 1.69 billion rupees RevPAR: 7,337 DSRN: 2,528 Occupancy percen
 
 Recommendations:
 
-Atliq Grands, a luxury hotel in Delhi, despite its good ratings, is underperforming in revenue generation. A strategic plan is needed to boost bookings and reduce cancellations. Atliq Palace in Hyderabad is struggling with low bookings, potentially due to low ratings. As a business hotel, its high ADR of 9,480 rupees and low Occupancy percentage need attention. Atliq Grands in Hyderabad is another hotel with lower revenue due to poor ratings and low Occupancy percentage. Efforts should focus on increasing bookings. The decline in revenue is primarily linked to low Occupancy percentages, which, in turn, result from fewer bookings. Strategies should be devised to enhance booking rates. ADR should be adjusted dynamically based on factors like the city, weekdays, and low-demand days to maximize revenue.
+1.Atliq Grands, a luxury hotel in Delhi, despite its good ratings, is underperforming in revenue generation. A strategic plan is needed to boost bookings and reduce cancellations. 
+2.Atliq Palace in Hyderabad is struggling with low bookings, potentially due to low ratings. As a business hotel, its high ADR of 9,480 rupees and low Occupancy percentage need attention. 
+3.Atliq Grands in Hyderabad is another hotel with lower revenue due to poor ratings and low Occupancy percentage. Efforts should focus on increasing bookings. 
+4.The decline in revenue is primarily linked to low Occupancy percentages, which, in turn, result from fewer bookings. Strategies should be devised to enhance booking rates. ADR should be adjusted dynamically based on factors like the city, weekdays, and low-demand days to maximize revenue.
