@@ -5,6 +5,11 @@
 
 AtliQ Hotels, despite being in the hospitality industry for 20 years, are losing market share and revenue in the luxury/business hotels category due to strategic moves by competitors and ineffective decision-making. The managing director aims to incorporate “Business and Data Intelligence” to reverse this trend, despite lacking an in-house data analytics team.
 
+## Dashboard
+
+To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU0MjE4MWItYTM4Mi00NGZmLWJmMGYtYmQ4ZmQxMjYwZGQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
+
 ## Tech Stack
 
 - **Power BI**
@@ -45,7 +50,3 @@ AtliQ Hotels, despite being in the hospitality industry for 20 years, are losing
 2. **Atliq Palace (Hyderabad)**: Low bookings potentially due to low ratings. Attention needed for high ADR (₹9,480) and low Occupancy percentage.
 3. **Atliq Grands (Hyderabad)**: Lower revenue linked to poor ratings and low Occupancy percentage. Focus on increasing bookings.
 4. **General Strategy**: Low Occupancy percentages are the primary cause of revenue decline, resulting from fewer bookings. Enhance booking rates and adjust ADR dynamically based on city, weekdays, and low-demand days to maximize revenue.
-
-## Dashboard
-
-To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGU0MjE4MWItYTM4Mi00NGZmLWJmMGYtYmQ4ZmQxMjYwZGQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
