@@ -27,6 +27,7 @@ AtliQ Hotels, despite being in the hospitality industry for 20 years, are losing
     - Page navigation with slicer panel
     - Buttons for navigation
     - KPIs
+    - Added Slicer Panel
 7. **Deployment**: Deploy the report using Power BI Service.
 
 ## Key Metrics
