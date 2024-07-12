@@ -13,7 +13,6 @@ To view the detailed insights, visit the [Power BI Dashboard](https://app.powerb
 ## Tech Stack
 
 - **Power BI**
-- **MySQL**
 - **Excel**
 - **Language**: DAX (Data Analysis Expressions), M (Power Query)
 
