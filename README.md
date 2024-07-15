@@ -43,9 +43,35 @@ To view the detailed insights, visit the [Power BI Dashboard](https://app.powerb
 - **ADR (Average Daily Rate)**: ₹12.70K
 - **Realization Percentage**: 70.1%
 
-## Recommendations
+# Findings/Insights
 
-1. **Atliq Grands (Delhi)**: Despite good ratings, underperforms in revenue. Strategic plans needed to boost bookings and reduce cancellations.
-2. **Atliq Palace (Hyderabad)**: Low bookings potentially due to low ratings. Attention needed for high ADR (₹9,480) and low Occupancy percentage.
-3. **Atliq Grands (Hyderabad)**: Lower revenue linked to poor ratings and low Occupancy percentage. Focus on increasing bookings.
-4. **General Strategy**: Low Occupancy percentages are the primary cause of revenue decline, resulting from fewer bookings. Enhance booking rates and adjust ADR dynamically based on city, weekdays, and low-demand days to maximize revenue.
+After analyzing the data, several key insights were identified:
+
+- Created 4 Dashboards for Executive, Revenue, Booking Insights, and Performance Overview.
+- The analysis covers various parameters to provide detailed insights based on the revenue team's requirements.
+- Increased focus on Elite customers across cities is crucial as they significantly boost revenue. 
+- Strengthening connections with MakeMyTrip and LogTrip platforms is recommended. The last two weekends should be emphasized to balance realized revenue.
+- Over three months (May, June, and July), AtliQ Grands generated approximately 1.7 billion (1.69b) in revenue, showing positive trends in Revenue, ADR, Occupancy, and Revenue/Room.
+- The overall average rating improved to 3.62, indicating enhanced customer satisfaction.
+- Weekends consistently showed higher occupancy rates, suggesting the effectiveness of a flat pricing strategy.
+- Other travel platforms contributed 40% of total bookings and revenue, whereas direct offline bookings had a minimal impact at 5%.
+- The luxury room category dominated both revenue and bookings, with Mumbai leading in revenue.
+- AtliQ Grands (Delhi): Despite good ratings, underperforms in revenue. Strategic plans needed to boost bookings and reduce cancellations.
+- AtliQ Palace (Hyderabad): Low bookings potentially due to low ratings. Attention needed for high ADR (₹9,480) and low Occupancy percentage.
+- AtliQ Grands (Hyderabad): Lower revenue linked to poor ratings and low Occupancy percentage. Focus on increasing bookings.
+  
+
+# Recommendations
+
+In light of the industry dynamics, AtliQ Grands should consider the following actions:
+
+- Implement dynamic pricing to increase revenue on peak days and weekends.
+- Launch targeted marketing campaigns for offline booking platforms.
+- Analyze guest demand during different periods to optimize revenue.
+- Focus on customer reviews to further enhance satisfaction.
+- Explore opportunities to increase direct bookings through the hotel's website.
+- General Strategy: Low Occupancy percentages are the primary cause of revenue decline, resulting from fewer bookings. Enhance booking rates and adjust ADR dynamically based on city, weekdays, and low-demand days to maximize revenue.
+
+# Conclusion
+
+The Power BI analysis has provided valuable insights into AtliQ Grands Hotel's management, offering opportunities for optimization and growth. Continuous monitoring of key metrics is essential for sustained success.
