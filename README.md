@@ -7,7 +7,7 @@ AtliQ Hotels, despite being in the hospitality industry for 20 years, are losing
 
 ## Dashboard
 
-To view the detailed insights, visit the [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiZGU0MjE4MWItYTM4Mi00NGZmLWJmMGYtYmQ4ZmQxMjYwZGQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+To view the detailed insights, visit the [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzlkOWJkZTctNWI0OS00MmRhLTkxNjctMzFhZjFiYjlhNGQ1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Tech Stack
