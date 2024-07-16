@@ -47,7 +47,7 @@ To view the detailed insights, visit the [Power BI Dashboard](https://app.powerb
 
 After analyzing the data, several key insights were identified:
 
-- Created 4 Dashboards for Executive, Revenue, Booking Insights, and Performance Overview.
+- Created 4 Dashboards for Executive, Revenue, Booking Insights, and Performance Overview. Included Slicer Panel
 - The analysis covers various parameters to provide detailed insights based on the revenue team's requirements.
 - Increased focus on Elite customers across cities is crucial as they significantly boost revenue. 
 - Strengthening connections with MakeMyTrip and LogTrip platforms is recommended. The last two weekends should be emphasized to balance realized revenue.
