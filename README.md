@@ -43,7 +43,7 @@ To view the detailed insights, visit the [Power BI Dashboard](https://app.powerb
 - **ADR (Average Daily Rate)**: ₹12.70K
 - **Realization Percentage**: 70.1%
 
-# Findings/Insights
+# Top Insights
 
 After analyzing the data, several key insights were identified:
 
